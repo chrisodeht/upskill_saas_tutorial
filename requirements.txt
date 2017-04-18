@@ -1,0 +1,4 @@
+Memberships
+* User should see link for basic plan on home page
+* User should see link for pro plan on home page
+* Basic plan should link pint to regular Devise sign up form
